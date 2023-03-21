@@ -6,6 +6,9 @@
   <a href="https://stackoverflow.com/users/4038937/lzak">
     <img alt="Lasha's StackOverflow" width="42px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/StackOverflow-Dark.svg" />
   </a>
+  <a href="https://devpost.com/Lzak">
+    <img alt="Lasha's StackOverflow" width="48px" src="http://nealrs.github.io/devpost-follow-button/icon/devpost.svg" />
+  </a>
 </div>
 
 <br />
@@ -14,7 +17,7 @@ I'm a very caffeinated software engineer from New York City. I focus on developi
 
 I currently maintain a World of Warcraft group-finding website called [PugFinder](https://pugfinder.gg) that I built with some React and Firebase magic. You'll also find me on [StackOverflow](https://stackoverflow.com/users/4038937/lzak) contributing to answers to topics such as Python and Django.
 
-I used to frequently participate in hackathons, taking home the prize for BostonHacks, HackPrinceton, Bitcamp and 5th place for Facebook's 2017 Global Hackathon Finals.
+I used to frequently participate in hackathons, taking home the prize for <a href="https://devpost.com/software/mobile-sleep-doctor">BostonHacks</a>, <a href="https://devpost.com/software/subtitles_irl">HackPrinceton</a>, <a href="https://devpost.com/software/holey-moley">Bitcamp</a> and 5th place for Facebook's 2017 Global Hackathon Finals.
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
