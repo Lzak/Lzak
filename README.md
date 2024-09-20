@@ -13,9 +13,9 @@
 
 <br />
 
-I'm a very caffeinated software engineer from New York City. I focus on developing scalable software solutions that deliver value to people.
+I'm a very caffeinated software engineer from New York City currently working at [Millennium](https://www.mlp.com/) on their Rapid Application Development (RAD) team. I focus on developing scalable software solutions that deliver value to people and organizations.
 
-I currently maintain a World of Warcraft group-finding website called [PugFinder](https://pugfinder.gg) that I built with some React and Firebase magic. You'll also find me on [StackOverflow](https://stackoverflow.com/users/4038937/lzak) contributing to answers to topics such as Python and Django.
+I maintain a World of Warcraft group-finding website called [PugFinder](https://pugfinder.gg) that I built with React and Firebase (realtime database + functions) serverless backend. You'll also find me on [StackOverflow](https://stackoverflow.com/users/4038937/lzak) contributing to answers to topics such as Python and Django.
 
 I used to frequently participate in hackathons, taking home the prize for <a href="https://devpost.com/software/mobile-sleep-doctor">BostonHacks</a>, <a href="https://devpost.com/software/subtitles_irl">HackPrinceton</a>, <a href="https://devpost.com/software/holey-moley">Bitcamp</a> and 5th place for Facebook's 2017 Global Hackathon Finals.
 
